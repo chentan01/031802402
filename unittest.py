@@ -1,5 +1,5 @@
 import unittest
-from chachong import SimilarityCalculate
+from test import SimilarityCalculate
 
 class SimilarityTest (unittest.TestCase):
 
